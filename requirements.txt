@@ -1,0 +1,6 @@
+# GestureDino AI — Phase 1 Dependencies
+# Modern Pygame with pre-built binary wheels for Python 3.14
+pygame-ce==2.5.8
+
+# Automated testing framework for headless game logic & physics
+pytest==8.3.4

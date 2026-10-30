@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Local game data & user settings
+data/high_score.json
+
+# Large AI model assets (can be downloaded / linked locally)
+models/*.task
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Distribution / builds
+build/
+dist/
+*.egg-info/
